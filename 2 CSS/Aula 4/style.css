@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(255, 239, 219);
+}
+
+p {
+    color: rgb(68, 66, 66);
+}
+
+.photo {
+    width: 200px;
+    border: 2px groove rgb(155, 155, 155);
+    border-radius: 50%;
+}
+
+#meuNome {
+    color: rgb(0, 0, 0);
+}

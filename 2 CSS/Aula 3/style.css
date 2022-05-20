@@ -1,0 +1,20 @@
+body {
+    /* background-color: rgb(255, 239, 219); */
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: contain;
+}
+
+p {
+    color: rgb(68, 66, 66);
+}
+
+.photo {
+    width: 200px;
+}
+
+#meuNome {
+    color: rgb(0, 0, 0);
+}

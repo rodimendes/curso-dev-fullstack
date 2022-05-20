@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(255, 239, 219);
+}
+
+p {
+    color: rgb(68, 66, 66);
+}
+
+.photo {
+    width: 200px;
+}
+
+#meuNome {
+    color: rgb(0, 0, 0);
+}

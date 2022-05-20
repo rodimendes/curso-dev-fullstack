@@ -1,0 +1,11 @@
+body {
+    background-color: antiquewhite;
+}
+
+.photo {
+    width: 200px;
+}
+
+#meuNome {
+    color: darkslategray;
+}
